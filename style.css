@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project E60</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+        <div class="container">
+            <div class="header-left">
+              <img class="logo" src="./img/logoE60.png"/>
+            
+                <div class="header-right">
+                <a href="#">Home</a>
+                <a href="#">About us</a>
+                <a href="#" class="login">Portfolio</a>
+              </div>
+            </div>
+        </div>
+    </header>
+    <div class="top-wrapper">
+      <!-- Ketik code Anda dibawah -->
+      <div class="container">
+        <h1>SELAMAT DATANG!!</h1>
+        <h1>Di PROFIL WEB E-60</h1>
+        <p>Kami peserta DTS 2020 Batch 2 Tema HTML, CSS, JavaScript.</p>
+        <p>Ini adalah Project WEB kami.</p>
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+    </div>
+    <div class="message-wrapper">
+    </div>
+    <footer>
+    </footer>
+  </body>
+</html>
