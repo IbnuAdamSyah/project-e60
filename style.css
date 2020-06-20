@@ -90,8 +90,8 @@
     margin: 0 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #fe7250;
-    background: #fe7250;
+    border: 2px solid #00ced191;
+    background: #00ced191;
     color: #fff;
     cursor: pointer;
     transition: background 0.5s;
@@ -106,6 +106,6 @@
     background: transparent;
   }
   .btn-2:hover{
-    border: 2px solid #fd7250;
-    background: #fd7250;
+    border: 2px solid #00ced191;
+    background: #00ced191;
   }
